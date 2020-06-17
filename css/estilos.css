@@ -13,9 +13,15 @@ h2{
 aside{
     background-color: aqua;
     position: fixed;
-    width: 450px;
+    width: 350px;
+    height: 100%;
     top: 12px;    
     right: 1px;
+}
+
+img{
+    max-width: 300px !important;
+    min-width: 100px;
 }
 
 #foto{
